@@ -1,0 +1,31 @@
+//base prise de MHW
+[
+    {
+        "color":"Purple",
+        "bonus": 1.39
+    },
+    {
+        "weapon":"White",
+        "bonus": 1.32
+    },
+    {
+        "weapon":"Blue",
+        "bonus": 1.2
+    },
+    {
+        "weapon":"Green",
+        "bonus": 1.05
+    },
+    {
+        "weapon":"Yellow",
+        "bonus": 1
+    },
+    {
+        "weapon":"Orange",
+        "bonus": 0.75
+    },
+    {
+        "weapon":"Red",
+        "bonus": 0.5
+    }
+]

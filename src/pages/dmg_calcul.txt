@@ -1,1 +1,35 @@
 ((Base raw)*buff d'attaque en % + Buff d'attaque fixe) *(( 1+BonusCritique*(Affinité/100))*Tranchant* Motion Value)* Hitzone
+
+1/ Base raw
+atk weapon / weapon radius
+
+ex: base raw = 1008 / 4.8(GS) = 210 ATK
+
+2/ Bonus atk in percent (%)
+every bonus are multiply
+ex: bonus 1 : 30%
+    bonus 2 : 20%
+
+1.3(30%) x 1.2(20%) = 1.56 (56%)
+
+210 x 1.56 = 327.6 (~327 ATK)
+
+3/ Bonus atk fix
+every bonus are add
+ex: bonus 3 : +15
+327 + 15 = 342 ATK
+
+4/ Affinity
+probability of making critical hits
+bonus for critical hit = 0.25(25%)
+% of luck to make a critical hit : 0-100%
+ex: for 80% of luck to make a crtical hit
+1 + 0.25*80/100 = 1 + 0.2 = 1.2
+342 x 1.2 = 410 ATK
+
+5/ Sharp
+it's a multiplicator of dmg
+ex: blue Sharp
+410 x 1.2 = 492 ATK
+
+Actually, it's EFR (Effective Raw)
