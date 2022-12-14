@@ -1,0 +1,1 @@
+((Base raw)*buff d'attaque en % + Buff d'attaque fixe) *(( 1+BonusCritique*(Affinité/100))*Tranchant* Motion Value)* Hitzone

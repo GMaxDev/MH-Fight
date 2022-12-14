@@ -1,0 +1,59 @@
+//base prise de MHW
+[
+    {
+        "weapon":"Great Sword",
+        "raw": 4.8
+    },
+    {
+        "weapon":"Long Sword",
+        "raw": 3.3
+    },
+    {
+        "weapon":"Sword and Shield",
+        "raw": 1.4
+    },
+    {
+        "weapon":"Double Sword",
+        "raw": 1.4
+    },
+    {
+        "weapon":"Hammer",
+        "raw": 4.2
+    },
+    {
+        "weapon":"Hunting Horn",
+        "raw": 4.2
+    },
+    {
+        "weapon":"Lance",
+        "raw": 2.3
+    },
+    {
+        "weapon":"Gunlance",
+        "raw": 2.3
+    },
+    {
+        "weapon":"Switch Axe",
+        "raw": 3.5
+    },
+    {
+        "weapon":"Charge Blade",
+        "raw": 3.6
+    },
+    {
+        "weapon":"Light Bowgun",
+        "raw": 1.3
+    },
+    {
+        "weapon":"Heavy Bowgun",
+        "raw": 
+    },
+    {
+        "weapon":"Bow",
+        "raw": 1.2
+    },
+    {
+        "weapon":"Insect Glaive",
+        "raw": 3.1
+    },
+]
